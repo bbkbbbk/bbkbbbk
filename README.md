@@ -1,6 +1,6 @@
 ### Hellooo
 
-a software engineering student with passionate in writing clean code and developing a large distributed software system that is scalable, maintainable and reliable. 
+a software engineering student with commitment to write clean code and develop a large distributed software system that is scalable, maintainable and reliable. 
 
 <p align="center">
   <a href="https://now-playing-profile-6xjvwucuh.vercel.app/now-playing?open">
