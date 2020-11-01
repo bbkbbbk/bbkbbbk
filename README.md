@@ -15,9 +15,6 @@ a software engineering student with commitment to write clean code and develop a
   <a href="https://open.spotify.com/playlist/3xbFq7NKuUa2x4G3P2uO11">
     <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/bbkbbbk/">
-    <img src="https://img.shields.io/badge/leetcode-%23F9A825.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
